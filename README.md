@@ -25,7 +25,7 @@ In order to run the applicaton, run the following command in the integrated term
 
 after installing node packages, run node index.js in your vscode terminal and test out the crud routes in insomnia.
 
-![alt text](img)
+![alt text](https://user-images.githubusercontent.com/114950259/224439127-0034ac9b-8f52-4f55-810c-b002c87f1a37.png)
 
 ## Contributing
 
