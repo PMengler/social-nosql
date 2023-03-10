@@ -41,6 +41,8 @@ Testing is not applicable on this project. However, typically you would run the 
 
 GitHub Url: https://github.com/PMengler
 
+Video Walkthrough: https://drive.google.com/file/d/1RacHodmBr78X2mgW0ireIALNwTWkt7fl/view
+
 ## License
 
 NOTICE:
